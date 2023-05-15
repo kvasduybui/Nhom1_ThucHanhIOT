@@ -1,0 +1,15 @@
+../Src/main.c:106:5:main	16	static
+../Src/main.c:130:6:delay_ms	24	static
+../Src/main.c:146:13:LedBuzz_Init	16	static
+../Src/main.c:179:13:InterruptPA4_Init	32	static
+../Src/main.c:223:13:InterruptPB0_Init	32	static
+../Src/main.c:268:13:InterruptPB3_Init	32	static
+../Src/main.c:313:6:EXTI4_IRQHandler	8	static
+../Src/main.c:333:6:EXTI3_IRQHandler	8	static
+../Src/main.c:356:6:EXTI0_IRQHandler	8	static
+../Src/main.c:377:13:LedControl_SetStatus	16	static
+../Src/main.c:395:13:BuzzerControl_SetBeep	32	static
+../Src/main.c:411:10:CalculatorTime	24	static
+../Src/main.c:428:13:Toggled_5times	24	static
+../Src/main.c:451:13:Blinkled_StatusPower	32	static
+../Src/main.c:470:6:LedControl_TimPressRealease	16	static
